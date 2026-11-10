@@ -1,0 +1,8 @@
+{
+  "merged_model_dir": "/workspace/p2w/rev/train_T5_XL/final_merged_model",
+  "source_output_dir": "/workspace/p2w/rev/train_T5_XL",
+  "model_name": "google/flan-t5-xl",
+  "merged_lora_into_base_model": true,
+  "saved_tokenizer": true,
+  "note": "This folder contains the base model with LoRA weights merged into the model weights."
+}
