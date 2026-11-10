@@ -1,0 +1,9 @@
+experiment,samples,wer_percent,cer_percent,bleu_4,exact_match_percent
+T5_Base,1080,7.20,6.08,0.8571,68.61
+T5_Large,1080,3.45,2.60,0.9316,83.80
+T5_XL,1080,2.05,1.39,0.9619,90.83
+T5_Large_10PER,1080,21.69,13.56,0.5872,31.30
+T5_Large_20PER,1080,38.99,25.40,0.3298,10.46
+T5_Large_30PER,1080,54.97,37.36,0.1810,3.15
+T5_Large_Stress_Tokens,1080,4.54,3.56,0.9151,81.48
+T5_Large_Stress_Pipe,1080,3.72,2.87,0.9266,83.43
