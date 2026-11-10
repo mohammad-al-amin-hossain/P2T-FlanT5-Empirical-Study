@@ -38,3 +38,9 @@ venv/
 data/raw/
 data/processed/
 data/private/
+
+# Private dataset-derived files
+/data/*/
+
+# Individual experiment outputs pending review
+/results/T5_*/

@@ -1,0 +1,25 @@
+{
+  "backend": "tokenizers",
+  "eos_token": "</s>",
+  "extra_ids": 100,
+  "extra_special_tokens": [
+    "<SOS>",
+    "<EOS>",
+    "<space>",
+    "|"
+  ],
+  "is_local": true,
+  "local_files_only": false,
+  "max_length": 128,
+  "model_max_length": 512,
+  "pad_to_multiple_of": null,
+  "pad_token": "<pad>",
+  "pad_token_type_id": 0,
+  "padding_side": "right",
+  "sp_model_kwargs": {},
+  "stride": 0,
+  "tokenizer_class": "T5Tokenizer",
+  "truncation_side": "right",
+  "truncation_strategy": "longest_first",
+  "unk_token": "<unk>"
+}

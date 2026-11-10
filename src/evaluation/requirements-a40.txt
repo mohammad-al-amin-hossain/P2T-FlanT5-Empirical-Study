@@ -1,0 +1,12 @@
+# Package names inferred from the retained A40 scripts; NOT an exact HPC environment lock.
+torch
+transformers
+pandas
+evaluate
+numpy
+matplotlib
+seaborn
+scikit-learn
+tqdm
+jiwer
+nltk

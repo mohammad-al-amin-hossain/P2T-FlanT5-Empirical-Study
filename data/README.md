@@ -1,7 +1,7 @@
-# Restricted data (no dataset files in this public repository)
+# LRS2 data access
 
-This project uses BBC/Oxford LRS2. Its distribution is governed by an academic data-sharing agreement. Do **not** publish raw videos, transcript files, `train.csv`, `test.csv`, `train_b.csv`, `train_c.csv`, `test_noisy_*PER.csv`, per-sample predictions, or decoded target text unless the licence and approvals specifically permit that redistribution.
+The data inputs for these experiments are derived from LRS2, which is subject to a BBC/Oxford data-sharing agreement. Obtain LRS2 through the [official Oxford LRS2 page](https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html).
 
-Official dataset page: https://www.robots.ox.ac.uk/~vgg/data/lip_reading/lrs2.html
+Training/test CSVs, noisy test inputs, per-sample reference text and predictions are intentionally **not committed** to this repository while redistribution rights are unverified. They may be kept locally for research under applicable permissions.
 
-Keep private datasets outside this Git repository. A local private path can be supplied to scripts via command-line arguments or environment variables. Do not put absolute home-directory paths or usernames in published scripts.
+See the manuscript and root `README.md` for the decoder-stage evaluation setup and known limitations.
