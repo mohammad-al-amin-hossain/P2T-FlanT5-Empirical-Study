@@ -1,0 +1,11 @@
+{
+  "number_of_samples": 1080,
+  "batch_size": 32,
+  "max_length": 128,
+  "num_beams": 5,
+  "runtime_seconds": 75.16285014152527,
+  "samples_per_second": 14.368800517362656,
+  "ms_per_sample": 69.59523161252339,
+  "peak_gpu_memory_gb": 29.26968240737915,
+  "device": "cuda"
+}
