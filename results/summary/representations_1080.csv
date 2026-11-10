@@ -1,0 +1,4 @@
+variant,n,boundary,stress_markers,wer_pct,cer_pct,bleu4,em_pct
+V1,1080,<space>,yes,4.54,3.56,0.9151,81.48
+V2,1080,|,yes,3.72,2.87,0.9266,83.43
+V3,1080,|,no,3.45,2.6,0.9316,83.8

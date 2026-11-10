@@ -1,0 +1,4 @@
+model,n,wer_pct,cer_pct,bleu4,em_pct
+Flan-T5 Base + LoRA,1080,7.2,6.08,0.8571,68.61
+Flan-T5 Large + LoRA,1080,3.45,2.6,0.9316,83.8
+Flan-T5 XL + LoRA,1080,2.05,1.39,0.9619,90.83

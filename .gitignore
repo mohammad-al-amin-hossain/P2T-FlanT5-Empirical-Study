@@ -1,0 +1,40 @@
+# macOS
+.DS_Store
+._*
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+.env
+.ipynb_checkpoints/
+
+# Model checkpoints
+*.safetensors
+*.bin
+*.pt
+*.pth
+*.ckpt
+*.h5
+
+# Dataset and per-sample experiment files
+**/train*.csv
+**/val*.csv
+**/test*.csv
+**/new_test_results*.csv
+**/evaluation_results*.csv
+**/confidence_scores*.csv
+**/best_predictions*.csv
+**/worst_predictions*.csv
+
+# Logs and temporary files
+*.log
+*.out
+*.err
+*.tmp
+
+# Restricted original data
+data/raw/
+data/processed/
+data/private/

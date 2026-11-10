@@ -1,0 +1,4 @@
+model,train_hours,peak_training_memory_gb
+Base,12.56,1.55
+Large,14.78,3.95
+XL,27.92,10.27

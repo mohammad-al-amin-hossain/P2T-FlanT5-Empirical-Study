@@ -1,0 +1,4 @@
+model,n,latency_ms_per_sample,peak_inference_memory_gb
+Base,1080,19.14,4.53
+Large,1080,33.82,12.4
+XL,1080,69.6,29.27
